@@ -2,58 +2,6 @@ https://samirpaulb.github.io/posts/leetcode-solutions-cheatsheet/
 
 
 
-Search
-Write
-Sign up
-
-Sign in
-
-
-
-
-
-Top 100 Interview Programming questions, that asks many times
-here we discuss some PS/DS coding questions that mostly asked in interviews
-Shirsh Shukla
-Shirsh Shukla
-
-·
-Follow
-
-10 min read
-·
-Jun 7, 2022
-68
-
-
-4
-
-
-
-
-Hello Folks, in a software development carrier when we want to start with a job. being selected for the first round of interviews requires some luck.no matter what stage of your career you are at, this applies.
-
-However, it can be the most challenging at the beginner level when looking for your first job.
-
-Especially computer science graduate and software developer community is inundated with applications for programming jobs at startups like Uber and Netflix, large companies such as Amazon, Microsoft, and Google, and service-based firms like Wipro.
-
-However, most of them don’t know what kind of programming interview questions you can expect when applying to these companies.
-
-As part of this article, I will share with you some frequently asked questions from different interviews with programmers with different levels of experience, from people just out of college to those with one or two years of experience.
-
-In coding interviews, you will generally get asked questions on data structures and algorithms as well as a few logical ones. For example, how do you swap two integers without the use of a temporary variable?
-
-It is recommended that you practice on paper at some point during your preparation. It takes you away from your comfort zone when you code without an IDE and Stack Overflow. Furthermore, it simulates a whiteboard interview realistically.
-
-Also, one more thing that wants to highlight is please understand the core concept of all algorithms and you must know the requirements of all data structure types before it started.
-
-So now let us see, all the major question that is mostly asked, firstly I cover 20 questions that are generally asked then in the other 4 categories we discuss specific topics like Array-List, string, etc.
-as of now I only added those questions, but if you think any other questions are also needed, then add in a comment below.
-
-So, firstly we cover some random questions many times Interviewer asks some general questions to know your knowledge, mainly they want to know if you can do that or not. so that’s the question that is generally asked, and these are bonus questions (I am not included those in the hundred)
-So let’s start to see all the questions.
-
-There are usually random questions asked.
 
 swiping Program
 like a=50;
